@@ -1,0 +1,24 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Snake Game</string>
+
+    <string name="game_title">Snake Game</string>
+    <string name="start">start Game</string>
+
+    <!-- Main Activity -->
+    <string name="start_game">Start Game</string>
+    <string name="instructions">Instructions</string>
+    <string name="exit">Exit</string>
+
+    <!-- Game Activity -->
+    <string name="score_format">Score: %1$d</string>
+    <string name="level_format">Level: %1$d</string>
+    <string name="game_over">Game Over!</string>
+    <string name="level_completed">Level Completed!</string>
+    <string name="restart">Restart</string>
+
+    <!-- Instructions Activity -->
+    <string name="instructions_title">How to Play</string>
+    <string name="instructions_text">Swipe in any direction to move the snake.\nCollect blue apples to grow.\nAvoid red apples and walls.\nDon\'t crash into yourself!</string>
+    <string name="back">Back</string>
+</resources>
